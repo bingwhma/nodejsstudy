@@ -1,6 +1,7 @@
 
 var util = require("util");
 
+
 function Base() {
 	this.name = 'base';
 	this.base = 1991;
